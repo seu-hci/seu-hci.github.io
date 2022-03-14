@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to SEU-HCI Project: VR虚拟健身教练
 
-You can use the [editor on GitHub](https://github.com/seu-hci/seu-hci.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 问题
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+由于时间、金钱、疫情等因素，现在许多人选择在家中进行锻炼。而在居家锻炼中也需要一定的指导，人们往往使用手机上的健身应用来代替健身教练进行指导。但是现有的健身应用存在许多缺点。
+首先，虽然健身应用对于动作配有视频演示，但是由于视频演示的拍摄角度固定，有时还是难以准确理解规范的动作。再者，健身者无法看见自己的动作，在动作出错时无法自己发现和纠正。所以健身的效果往往并不理想。
 
-### Markdown
+所以我们设计了“VR虚拟健身教练”这一软件，旨在为忙碌中而又想接收专业的健身指导的人们提供服务。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 目标用户
 
-```markdown
-Syntax highlighted code block
+有锻炼自身的意向而又缺乏时间和金钱的青年、中年群体。
 
-# Header 1
-## Header 2
-### Header 3
+### 解决方案
 
-- Bulleted
-- List
+“VR虚拟健身教练”软件除了现有的健身app的功能之外，还可以为用户提供VR健身教练演示，以及动作纠正等功能。
 
-1. Numbered
-2. List
+对于在传统健身app的视频演示无法让人准确理解的问题，本软件使用VR或者MR技术，使得用户可以从各个角度看到虚拟健身教练的演示动作。并且虚拟健身教练可以对用户可以起到激励的效果。
 
-**Bold** and _Italic_ and `Code` text
+本软件使用动作捕捉技术实现动作纠正功能，在用户动作错误时提醒用户并且提供相关信息。本软件支持基于传感器、深度摄像头等的多个动作捕捉方案。若用户没有动作捕捉设备也不影响前述功能的使用。
 
-[Link](url) and ![Image](src)
-```
+### 角色及任务
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+“VR虚拟健身教练”项目文档撰写：71119217陈奇烨，71119219涂祎乐
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seu-hci/seu-hci.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+“VR虚拟健身教练”设计网站建立：71119214李孟泽，71119213龚凯杰
